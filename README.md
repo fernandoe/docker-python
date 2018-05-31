@@ -2,10 +2,13 @@
 
 Python Dockerfile
 
-**Base Image**: python:3.6.5-alpine
+**Base Image**: python:3.5.5-alpine
 
 **Dependencies:**
 
+- build-base
 - mariadb-client-libs
-- mariadb-dev 
+- mariadb-dev
 - git
+- postgresql-dev
+- jpeg-dev
