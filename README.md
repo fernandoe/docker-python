@@ -7,7 +7,7 @@ Python Dockerfile
 **Dependencies:**
 
 - build-base
-- mariadb-client-libs
+- mariadb-client
 - mariadb-dev
 - git
 - postgresql-dev
