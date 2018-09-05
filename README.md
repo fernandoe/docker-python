@@ -2,7 +2,7 @@
 
 Python Dockerfile
 
-**Base Image**: python:3.5.5-alpine
+**Base Image**: python:3.7.0-alpine3.8
 
 **Dependencies:**
 
