@@ -12,6 +12,7 @@ RUN apk add --no-cache \
         build-base \
         chromium \
         chromium-chromedriver \
+        cmake \
         git \
         jpeg-dev \
         libffi-dev \
@@ -19,4 +20,5 @@ RUN apk add --no-cache \
         libxslt-dev \
         mariadb-client \
         mariadb-dev \
-        postgresql-dev
+        postgresql-dev \
+        redis
